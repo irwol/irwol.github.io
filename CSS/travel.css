@@ -23,6 +23,14 @@ body {
 
 .style {
     max-width: 100%;
+    border-top-width: 10px;
+    border-left-width: 10px;
+    padding-right: 10px;
+    border-bottom-width: 10px;
+    width: 720px;
+    height: 320px;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 
 .blog{
@@ -34,6 +42,11 @@ body {
   background-color: rgba(0,0,0,.6);
   color: white;
   margin-bottom: 40px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+
 }
 
 .card {
@@ -43,6 +56,10 @@ body {
   border-top-width: 10px;
   border-left-width: 10px;
   border-right-width: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
 }
 .card-footer {
  background-color: rgba(0,0,0,.6); 
@@ -59,3 +76,4 @@ body {
 margin: 30px;
 border: white;
 }
+
